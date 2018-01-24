@@ -1,5 +1,6 @@
 ---
 title: LaTeX
+permalink: /LaTeX
 date: 2018-01-21
 ---
 
