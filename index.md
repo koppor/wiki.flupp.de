@@ -7,4 +7,4 @@ author_profile: true
 
 Currently, following page is available:
 
-- [latex](latex)
+- [LaTeX](LaTeX)
