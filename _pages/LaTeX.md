@@ -13,6 +13,7 @@ LaTeX awesomeness. See <https://github.com/egeerardyn/awesome-LaTeX>.
 
 ## Packages
 - See <https://tex.stackexchange.com/questions/553/what-packages-do-people-load-by-default-in-latex/586> for an inspiration for other useful packages.
+- Comparison of cleveref with other packages: <https://tex.stackexchange.com/q/36295/9075>.
 
 ## Templates
 - <https://latextemplates.github.io/>
