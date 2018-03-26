@@ -1,6 +1,6 @@
 ---
 title: LaTeX
-permalink: /LaTeX
+permalink: /latex
 date: 2018-01-28
 ---
 
@@ -21,6 +21,11 @@ LaTeX awesomeness. See <https://github.com/egeerardyn/awesome-LaTeX>.
 ## Interesting packages
 
 - [clefval](https://ctan.org/pkg/clefval) - easy `\TheKey{key}{value}`/`\TheValue{key}` pairs.
+
+## FAQs
+
+- https://tex.meta.stackexchange.com/questions/2419/often-referenced-questions/2428#2428
+- DE: https://texfragen.de/
 
 ## Other hints
 - Float placement: <http://tex.stackexchange.com/questions/39017/how-to-influence-the-position-of-float-environments-like-figure-and-table-in-lat#
