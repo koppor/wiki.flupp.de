@@ -7,5 +7,5 @@ author_profile: true
 
 Currently, following page is available:
 
-- [git](git.md)
-- [latex](latex.md)
+- [git](git)
+- [latex](latex)
